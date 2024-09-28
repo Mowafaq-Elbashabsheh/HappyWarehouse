@@ -1,0 +1,12 @@
+D:\My Learning\Tasks app\HappyWarehouse\HappyWarehouse.Core\bin\Debug\net6.0\HappyWarehouse.Core.deps.json
+D:\My Learning\Tasks app\HappyWarehouse\HappyWarehouse.Core\bin\Debug\net6.0\HappyWarehouse.Core.dll
+D:\My Learning\Tasks app\HappyWarehouse\HappyWarehouse.Core\bin\Debug\net6.0\HappyWarehouse.Core.pdb
+D:\My Learning\Tasks app\HappyWarehouse\HappyWarehouse.Core\obj\Debug\net6.0\HappyWarehouse.Core.csproj.AssemblyReference.cache
+D:\My Learning\Tasks app\HappyWarehouse\HappyWarehouse.Core\obj\Debug\net6.0\HappyWarehouse.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Learning\Tasks app\HappyWarehouse\HappyWarehouse.Core\obj\Debug\net6.0\HappyWarehouse.Core.AssemblyInfoInputs.cache
+D:\My Learning\Tasks app\HappyWarehouse\HappyWarehouse.Core\obj\Debug\net6.0\HappyWarehouse.Core.AssemblyInfo.cs
+D:\My Learning\Tasks app\HappyWarehouse\HappyWarehouse.Core\obj\Debug\net6.0\HappyWarehouse.Core.csproj.CoreCompileInputs.cache
+D:\My Learning\Tasks app\HappyWarehouse\HappyWarehouse.Core\obj\Debug\net6.0\HappyWarehouse.Core.dll
+D:\My Learning\Tasks app\HappyWarehouse\HappyWarehouse.Core\obj\Debug\net6.0\refint\HappyWarehouse.Core.dll
+D:\My Learning\Tasks app\HappyWarehouse\HappyWarehouse.Core\obj\Debug\net6.0\HappyWarehouse.Core.pdb
+D:\My Learning\Tasks app\HappyWarehouse\HappyWarehouse.Core\obj\Debug\net6.0\ref\HappyWarehouse.Core.dll
